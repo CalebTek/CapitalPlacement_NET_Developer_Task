@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\bin\Debug\net7.0\CapitalPlacement.Console.exe
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\bin\Debug\net7.0\CapitalPlacement.Console.deps.json
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\bin\Debug\net7.0\CapitalPlacement.Console.runtimeconfig.json
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\bin\Debug\net7.0\CapitalPlacement.Console.dll
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\bin\Debug\net7.0\CapitalPlacement.Console.pdb
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.dll
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\refint\CapitalPlacement.Console.dll
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.pdb
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\ref\CapitalPlacement.Console.dll
