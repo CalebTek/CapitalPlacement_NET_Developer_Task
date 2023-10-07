@@ -3,7 +3,7 @@ namespace CapitalPlacement.Domain.Models
 {
     public class ApplicationForm
     {
-        public Guid ApplicationFormId { get; set; } = Guid.NewGuid();
+        public string ApplicationFormId { get; set; } = Guid.NewGuid().ToString();
         public string CoverImageUrl { get; set; } = string.Empty;
         public PersonalInformation? PersonalInformation { get; set; }
         public Profile? Profile { get; set; }

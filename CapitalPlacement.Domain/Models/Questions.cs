@@ -9,7 +9,7 @@ namespace CapitalPlacement.Domain.Models
 {
     public class Questions
     {
-        public Guid QuestionId { get; set; } = Guid.NewGuid();
+        public string QuestionId { get; set; } = Guid.NewGuid().ToString();
         public QuestionType Type { get; set; }
         public string Question { get; set; } = string.Empty;
     }

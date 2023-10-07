@@ -8,7 +8,7 @@ namespace CapitalPlacement.Domain.Models
 {
     public class Profile
     {
-        public Guid ProfileId { get; set; } = Guid.NewGuid();
+        public string ProfileId { get; set; } = Guid.NewGuid().ToString();
         public ICollection<Education>? Educations { get; set; }
         public ICollection<Experience>? Experiences { get; set; }
         public string ResumeUrl { get; set; } = string.Empty;

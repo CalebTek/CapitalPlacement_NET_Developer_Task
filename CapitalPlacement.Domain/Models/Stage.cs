@@ -5,7 +5,7 @@ namespace CapitalPlacement.Domain.Models
 {
     public class Stage
     {
-        public Guid StageId { get; set; } = Guid.NewGuid();
+        public string StageId { get; set; } = Guid.NewGuid().ToString();
         public string  StageName { get; set; } = string.Empty;
         public StageType StageDescription { get; set; }
     }

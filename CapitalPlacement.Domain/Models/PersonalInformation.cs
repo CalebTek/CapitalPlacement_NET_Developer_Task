@@ -5,7 +5,7 @@ namespace CapitalPlacement.Domain.Models
     public class PersonalInformation
     {
         
-        public Guid PersonalId { get; set; } = Guid.NewGuid();
+        public string PersonalId { get; set; } = Guid.NewGuid().ToString();
         public string FirstName { get; set; } = string.Empty;
         public string LastName { get; set; } = string.Empty;
         public string Email { get; set; } = string.Empty;

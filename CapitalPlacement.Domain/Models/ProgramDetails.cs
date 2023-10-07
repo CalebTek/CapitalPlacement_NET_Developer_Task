@@ -5,7 +5,7 @@ namespace CapitalPlacement.Domain.Models
 {
     public class ProgramDetails
     {
-        public Guid ProgramDetailsId { get; set; } = Guid.NewGuid();
+        public string ProgramDetailsId { get; set; } = Guid.NewGuid().ToString();
         public string Title { get; set; } = string.Empty;
         public string Summary { get; set; } = string.Empty;
         public string Description { get; set; } = string.Empty;

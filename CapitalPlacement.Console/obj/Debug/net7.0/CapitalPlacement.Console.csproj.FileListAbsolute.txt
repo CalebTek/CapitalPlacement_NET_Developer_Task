@@ -12,3 +12,18 @@ C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\Ca
 C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.pdb
 C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.genruntimeconfig.cache
 C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\ref\CapitalPlacement.Console.dll
+C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\bin\Debug\net7.0\CapitalPlacement.Console.exe
+C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\bin\Debug\net7.0\CapitalPlacement.Console.deps.json
+C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\bin\Debug\net7.0\CapitalPlacement.Console.runtimeconfig.json
+C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\bin\Debug\net7.0\CapitalPlacement.Console.dll
+C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\bin\Debug\net7.0\CapitalPlacement.Console.pdb
+C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.csproj.AssemblyReference.cache
+C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.AssemblyInfoInputs.cache
+C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.AssemblyInfo.cs
+C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.csproj.CoreCompileInputs.cache
+C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.dll
+C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\refint\CapitalPlacement.Console.dll
+C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.pdb
+C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\CapitalPlacement.Console.genruntimeconfig.cache
+C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Console\obj\Debug\net7.0\ref\CapitalPlacement.Console.dll
