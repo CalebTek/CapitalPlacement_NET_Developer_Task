@@ -1,7 +1,7 @@
-﻿
-
-using CapitalPlacement.Domain.Data;
+﻿using CapitalPlacement.Domain.Data;
 using Microsoft.Azure.Cosmos;
+using System;
+using System.Text;
 
 namespace CapitalPlacement.Api.ConfigurationExtention
 {
@@ -9,10 +9,12 @@ namespace CapitalPlacement.Api.ConfigurationExtention
     {
         public static void CosmosDbService(this IServiceCollection services, IConfiguration configuration)
         {
-           
             var cosmosDbSettings = configuration.GetSection("CosmosDbSettings").Get<CosmosDbSettings>();
-           
-            var cosmosClient = new CosmosClient(cosmosDbSettings.EndpointUri, cosmosDbSettings.PrimaryKey);
+
+            var primaryKeyBytes = Encoding.UTF8.GetBytes(cosmosDbSettings.PrimaryKey);
+            var primaryKeyBase64 = Convert.ToBase64String(primaryKeyBytes);
+
+            var cosmosClient = new CosmosClient(cosmosDbSettings.EndpointUri, primaryKeyBase64);
 
             services.AddSingleton(cosmosClient);
 
@@ -24,7 +26,6 @@ namespace CapitalPlacement.Api.ConfigurationExtention
                     cosmosDbSettings.ContainerId
                 );
             });
-
         }
     }
 }

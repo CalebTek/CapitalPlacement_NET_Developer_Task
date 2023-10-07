@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vayxtLLvktaNU0dUy5QaCGqOjHNafrX59A1Nf1LxYXpWeVyoTHPB0P5OwVQG+gdSKGyxp3ui/GwSRGpkpm6gnw==",
+  "dgSpecHash": "/KXbcp8TIVjJyNS5KqnPHdU7ccfcrcNIwWY6u6gsL9Jsv9CPNH2elnAOYYl9ucuGbTbefaq5IW+agKaWXyKx5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\OneDrive\\Documents\\Codes\\Jobs\\CapitalPlacement_NET_Developer_Task\\CapitalPlacement.Api\\CapitalPlacement.Api.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,9 @@
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
