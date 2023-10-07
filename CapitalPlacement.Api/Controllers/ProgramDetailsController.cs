@@ -1,8 +1,7 @@
 ﻿using CapitalPlacement.Domain.Models;
 using CapitalPlacement.Infrastructure.Interfaces; 
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Threading.Tasks;
+
 
 namespace CapitalPlacement.Api.Controllers
 {
