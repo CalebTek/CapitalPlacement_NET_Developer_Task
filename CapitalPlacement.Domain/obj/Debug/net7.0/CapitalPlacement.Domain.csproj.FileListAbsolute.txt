@@ -15,3 +15,20 @@ C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Devel
 C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\obj\Debug\net7.0\refint\CapitalPlacement.Domain.dll
 C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\obj\Debug\net7.0\CapitalPlacement.Domain.pdb
 C:\Users\Decagon Laptop\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\obj\Debug\net7.0\ref\CapitalPlacement.Domain.dll
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\bin\Debug\net7.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\bin\Debug\net7.0\Cosmos.CRTCompat.dll
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\bin\Debug\net7.0\msvcp140.dll
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\bin\Debug\net7.0\vcruntime140.dll
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\bin\Debug\net7.0\vcruntime140_1.dll
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\bin\Debug\net7.0\CapitalPlacement.Domain.deps.json
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\bin\Debug\net7.0\CapitalPlacement.Domain.dll
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\bin\Debug\net7.0\CapitalPlacement.Domain.pdb
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\obj\Debug\net7.0\CapitalPlacement.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\obj\Debug\net7.0\CapitalPlacement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\obj\Debug\net7.0\CapitalPlacement.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\obj\Debug\net7.0\CapitalPlacement.Domain.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\obj\Debug\net7.0\CapitalPlacement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\obj\Debug\net7.0\CapitalPlacement.Domain.dll
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\obj\Debug\net7.0\refint\CapitalPlacement.Domain.dll
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\obj\Debug\net7.0\CapitalPlacement.Domain.pdb
+C:\Users\HP\OneDrive\Documents\Codes\Jobs\CapitalPlacement_NET_Developer_Task\CapitalPlacement.Domain\obj\Debug\net7.0\ref\CapitalPlacement.Domain.dll
