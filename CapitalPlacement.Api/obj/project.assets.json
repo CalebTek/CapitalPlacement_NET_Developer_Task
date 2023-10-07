@@ -1964,6 +1964,19 @@
         "runtime": {
           "bin/placeholder/CapitalPlacement.Domain.dll": {}
         }
+      },
+      "CapitalPlacement.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CapitalPlacement.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CapitalPlacement.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CapitalPlacement.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -6693,11 +6706,17 @@
       "type": "project",
       "path": "../CapitalPlacement.Domain/CapitalPlacement.Domain.csproj",
       "msbuildProject": "../CapitalPlacement.Domain/CapitalPlacement.Domain.csproj"
+    },
+    "CapitalPlacement.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../CapitalPlacement.Infrastructure/CapitalPlacement.Infrastructure.csproj",
+      "msbuildProject": "../CapitalPlacement.Infrastructure/CapitalPlacement.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "CapitalPlacement.Domain >= 1.0.0",
+      "CapitalPlacement.Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.7",
       "Microsoft.Azure.Cosmos >= 3.35.4",
       "Swashbuckle.AspNetCore >= 6.5.0"
@@ -6739,6 +6758,9 @@
           "projectReferences": {
             "C:\\Users\\Decagon Laptop\\OneDrive\\Documents\\Codes\\Jobs\\CapitalPlacement_NET_Developer_Task\\CapitalPlacement.Domain\\CapitalPlacement.Domain.csproj": {
               "projectPath": "C:\\Users\\Decagon Laptop\\OneDrive\\Documents\\Codes\\Jobs\\CapitalPlacement_NET_Developer_Task\\CapitalPlacement.Domain\\CapitalPlacement.Domain.csproj"
+            },
+            "C:\\Users\\Decagon Laptop\\OneDrive\\Documents\\Codes\\Jobs\\CapitalPlacement_NET_Developer_Task\\CapitalPlacement.Infrastructure\\CapitalPlacement.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Decagon Laptop\\OneDrive\\Documents\\Codes\\Jobs\\CapitalPlacement_NET_Developer_Task\\CapitalPlacement.Infrastructure\\CapitalPlacement.Infrastructure.csproj"
             }
           }
         }

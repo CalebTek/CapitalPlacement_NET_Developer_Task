@@ -1,18 +1,16 @@
-﻿using CapitalPlacement.Domain.Data;
-using CapitalPlacement.Domain.Models;
-using Microsoft.Azure.Cosmos;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System;
 using System.Threading.Tasks;
+using CapitalPlacement.Domain.Data;
+using CapitalPlacement.Domain.Models;
+using CapitalPlacement.Infrastructure.Interfaces;
+using Microsoft.Azure.Cosmos;
 
 namespace CapitalPlacement.Infrastructure.Implementation
 {
-    public class ProgramDetailsRepository
+    public class ProgramDetailsRepository : IProgramDetailsRepository
     {
         private readonly DataAccess _dataAccess;
-        private readonly string _containerId = "programdetails"; // Replace with your container name
+        private readonly string _containerId = "programdetails";
 
         public ProgramDetailsRepository(DataAccess dataAccess)
         {

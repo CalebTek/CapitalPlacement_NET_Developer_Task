@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+using var httpClient = new HttpClient();
+var baseUrl = "https://api-url"; 
+
+var programDetailsConsole = new ProgramDetailsService(httpClient, baseUrl);
+await programDetailsConsole.RunAsync();
